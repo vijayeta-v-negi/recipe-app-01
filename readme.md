@@ -23,8 +23,8 @@ A simple Recipe CRUD API built using Node.js, Express.js, and MongoDB following 
 - Mongoose
 - Nodemon
 
-## Post man doc
-Please refer to Recipe-app.postman_collection.json in repository
+## Postman documentation
+https://documenter.getpostman.com/view/2882912/2sBXwmQCmU
 
 ## Installation
 
